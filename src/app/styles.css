@@ -23,9 +23,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+/*css for hero */
 
+a {
+  padding: 8px;
+}
 .App-link {
   color: #61dafb;
+}
+
+h1 {
+  margin-top: 0px;
 }
 
 @keyframes App-logo-spin {

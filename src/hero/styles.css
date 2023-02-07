@@ -1,0 +1,31 @@
+.navbar-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  background: deepskyblue;
+}
+
+.navbar-image {
+  width: 100px;
+  text-decoration: none;
+  padding: 1em;
+}
+
+.navbar-image:hover {
+  background: #1565c0;
+}
+
+.navbar-item {
+  text-decoration: none;
+  padding: 1em;
+  color: white;
+}
+
+/*.navbar-item-container {
+  display: flex;
+  flex-flow: row wrap;
+}*/
+
+.navbar-item:hover {
+  background: #1565c0;
+}
