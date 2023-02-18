@@ -1,5 +1,4 @@
 // import logo from "./logo.svg";
-import ALPSLogo from "./Alps-Logo-Teal-01.png";
 
 import "./styles.css";
 import Hero from "../hero";
