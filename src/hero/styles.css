@@ -12,7 +12,7 @@
 }
 
 .navbar-image:hover {
-  background: #1565c0;
+  background: blue;
 }
 
 .navbar-item {
@@ -27,5 +27,5 @@
 }*/
 
 .navbar-item:hover {
-  background: #1565c0;
+  background: blue;
 }
